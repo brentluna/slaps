@@ -2,5 +2,5 @@
 
 
 TODO:
-*Organize File structure better
-*Add more thorough testing
+* Organize File structure better
+* Add more thorough testing
